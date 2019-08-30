@@ -5,8 +5,10 @@
 
 h1{
 font-family: "times new Roman",Georgia,serif;
+font-size: 2em;
 }
 p{
   font-family: courier,"Lucida Console", monospace;
+  font-size: 1.2em;
 
 }
